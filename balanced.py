@@ -1,6 +1,4 @@
-# Roswell James Castaneda
-# RedID: 820249749
-# User: cssc1784
+# rjcastaneda
 # Filename: balanced.py
 
 # Function to remove comments
